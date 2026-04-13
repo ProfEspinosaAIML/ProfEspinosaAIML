@@ -26,6 +26,14 @@ Before returning to full-time academia in 2024, I spent over a decade at **Toyot
   </a>
 </details>
 
+<details>
+  <summary>▶️ Click to view TMMC Innovation Lab Co-Op Experience Video</summary>
+  <br>
+  <a href="https://youtu.be/vp-EFv9Uutc">
+    <img src="https://img.youtube.com/vi/vp-EFv9Uutc/0.jpg" alt="TMMC Innovation Laboratory" width="400">
+  </a>
+</details>
+
 * **Deep Learning in Production:** Successfully productized low-cost Machine Vision systems for materials tracking and rolled out TMMC’s first Deep Learning platform for conveyance optimization.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
