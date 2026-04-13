@@ -1,5 +1,3 @@
-***
-
 # 👋 Hi, I'm Dr. David Espinosa
 
 **Professor of Applied AI & Machine Learning | MLOps Strategist | Academic Innovator**
