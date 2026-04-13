@@ -16,9 +16,14 @@ My current focus is on **AI-Augmented Curricula**, applying scaffolding and proj
 ### 🏭 Industrial Innovation & MLOps
 ![Toyota Alumni](https://img.shields.io/badge/Experience-Toyota%20Innovation%20Lead-eb0a1e?style=for-the-badge&logo=toyota)
 
-#### 📺 Featured Video: TMMC Innovation Laboratory
-[![TMMC Innovation Laboratory](https://img.youtube.com/vi/tevqIhLD8YU/0.jpg)](https://www.youtube.com/watch?v=tevqIhLD8YU)
-*A look into the foundations and mission of the TMMC Innovation Laboratory at Catalyst137, circa. 2018.*
+#### 📺 Featured Video: TMMC Innovation Laboratory, circa 2018.
+<details>
+  <summary>▶️ Click to view TMMC Innovation Lab Video</summary>
+  <br>
+  <a href="https://www.youtube.com/watch?v=tevqIhLD8YU">
+    <img src="https://img.youtube.com/vi/tevqIhLD8YU/0.jpg" alt="TMMC Innovation Laboratory" width="400">
+  </a>
+</details>
 
 Before returning to full-time academia in 2024, I spent over a decade at **Toyota Motor Manufacturing Canada (TMMC)**, where I led the TMMC Innovation Laboratory.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
