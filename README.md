@@ -10,6 +10,7 @@ I am a cross-disciplinary researcher and educator with over 35 years of experien
 ![Professor](https://img.shields.io/badge/Role-Professor%20of%20AIML-red?style=for-the-badge&logo=googlescholar)
 
 My current focus is on **AI-Augmented Curricula**, applying scaffolding and project-oriented coaching to prepare the next generation of students for a world of infinite information and automated tools.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 * **Design & Instruction:** Leading graduate and undergraduate courses in AI, Machine Learning, Robotics, and Data Science.
 * **Program Development:** Contributing to the strategic vision and curriculum evolution of Conestoga’s AI programs, such as AI HW Cluster Infrastructure and Prompt/Context Engineering.
 * **Mentorship:** Proudly mentored and graduated over 50 MSc and PhD students throughout my career.
@@ -18,7 +19,9 @@ My current focus is on **AI-Augmented Curricula**, applying scaffolding and proj
 ![Toyota Alumni](https://img.shields.io/badge/Experience-Toyota%20Innovation%20Lead-eb0a1e?style=for-the-badge&logo=toyota)
 
 Before returning to full-time academia in 2024, I spent over a decade at **Toyota Motor Manufacturing Canada (TMMC)**, where I led the TMMC Innovation Laboratory.
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 * **Deep Learning in Production:** Successfully productized low-cost Machine Vision systems for materials tracking and rolled out TMMC’s first Deep Learning platform for conveyance optimization.
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 * **MLOps & Data Governance:** Developed comprehensive strategies for cross-referencing KPIs and predictive maintenance tools for robotic performance.
 * **Applied Research:** Former Project Assessor for **NGen Canada**, reviewing national AI/ML initiatives for commercialization in advanced manufacturing.
 
