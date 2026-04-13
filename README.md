@@ -26,9 +26,10 @@ Before returning to full-time academia in 2024, I spent over a decade at **Toyot
 * **Applied Research:** Former Project Assessor for **NGen Canada**, reviewing national AI/ML initiatives for commercialization in advanced manufacturing.
 
 ### 🛠️ Technical Stack & Expertise
-* **AI/ML:** LLMs, Agentified ML, Synthetic Data Generation (SDG), and Computer Vision.
 ![Unitree G1](https://img.shields.io/badge/Humanoid-Unitree%20G1-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
 * **Advanced Robotics:** Reinforcement Learning on Unitree G1 Humanoid Robots and Digital Twins.
+* **AI/ML:** LLMs, Agentified ML, Synthetic Data Generation (SDG), and Computer Vision.
 * **Engineering:** MLOps, Statistical Process Control, and Cloud Technology.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 * **Legacy Systems:** 30+ years in Intelligent Tutoring Systems, Automated Reasoning, and Enterprise Java Development.
