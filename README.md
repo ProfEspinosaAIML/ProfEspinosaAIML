@@ -4,18 +4,18 @@
 
 **Professor of Applied AI & Machine Learning | MLOps Strategist | Academic Innovator**
 
-[cite_start]I am a cross-disciplinary researcher and educator with over 35 years of experience bridging the gap between advanced computing and real-world industrial applications[cite: 7]. [cite_start]Currently, I serve as a **Full-Time Professor of Machine Learning** at the Conestoga College School of Applied Computer Science & Information Technology[cite: 5, 44].
+I am a cross-disciplinary researcher and educator with over 35 years of experience bridging the gap between advanced computing and real-world industrial applications. Currently, I serve as a **Full-Time Professor of Machine Learning** at the Conestoga College School of Applied Computer Science & Information Technology.
 
 ### 🎓 Academic Leadership & Philosophy
-[cite_start]My current focus is on **AI-Augmented Curricula**, applying scaffolding and project-oriented coaching to prepare the next generation of students for a world of infinite information and automated tools[cite: 46].
-* [cite_start]**Design & Instruction:** Leading graduate and undergraduate courses in AI, Deep Learning, and NLP[cite: 54, 55].
-* [cite_start]**Program Development:** Contributing to the strategic vision and curriculum evolution of Conestoga’s AI programs[cite: 60, 61].
-* [cite_start]**Mentorship:** Proudly mentored and graduated over 50 MSc and PhD students throughout my career[cite: 119].
+My current focus is on **AI-Augmented Curricula**, applying scaffolding and project-oriented coaching to prepare the next generation of students for a world of infinite information and automated tools.
+* **Design & Instruction:** Leading graduate and undergraduate courses in AI, Machine Learning, Robotics, and Data Science.
+* **Program Development:** Contributing to the strategic vision and curriculum evolution of Conestoga’s AI programs, such as AI HW Cluster Infrastructure and Prompt/Context Engineering.
+* **Mentorship:** Proudly mentored and graduated over 50 MSc and PhD students throughout my career.
 
 ### 🏭 Industrial Innovation & MLOps
-[cite_start]Before returning to full-time academia in 2024, I spent over a decade at **Toyota Motor Manufacturing Canada (TMMC)**, where I led the Innovation Laboratory[cite: 6, 73, 80, 81].
-* [cite_start]**Deep Learning in Production:** Successfully productized low-cost Machine Vision systems for materials tracking and rolled out TMMC’s first Deep Learning platform for conveyance optimization[cite: 13, 95].
-* [cite_start]**MLOps & Data Governance:** Developed comprehensive strategies for cross-referencing KPIs and predictive maintenance tools for robotic performance[cite: 79, 92].
+Before returning to full-time academia in 2024, I spent over a decade at **Toyota Motor Manufacturing Canada (TMMC)**, where I led the TMMC Innovation Laboratory.
+* **Deep Learning in Production:** Successfully productized low-cost Machine Vision systems for materials tracking and rolled out TMMC’s first Deep Learning platform for conveyance optimization.
+* **MLOps & Data Governance:** Developed comprehensive strategies for cross-referencing KPIs and predictive maintenance tools for robotic performance.
 * [cite_start]**Applied Research:** Former Project Assessor for **NGen Canada**, reviewing national AI/ML initiatives for commercialization in advanced manufacturing[cite: 66, 70].
 
 ### 🛠️ Technical Stack & Expertise
