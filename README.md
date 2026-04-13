@@ -40,6 +40,6 @@ Before returning to full-time academia in 2024, I spent over a decade at **Toyot
 ### 📬 Connect with Me
 * 📍 Based in **Waterloo, Ontario, Canada**
 * 🔗 [LinkedIn Profile](https://www.linkedin.com/in/espinosa)
-* 📧 [enrique.d.espinosa@gmail.com](mailto:eespinosa@conestogac.on.ca)
+* 📧 [eespinosa@conestogac.on.ca](mailto:eespinosa@conestogac.on.ca)
 
 ***
