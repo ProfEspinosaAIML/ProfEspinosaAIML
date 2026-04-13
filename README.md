@@ -7,6 +7,7 @@
 I am a cross-disciplinary researcher and educator with over 35 years of experience bridging the gap between advanced computing and real-world industrial applications. Currently, I serve as a **Full-Time Professor of Machine Learning** at the Conestoga College School of Applied Computer Science & Information Technology.
 
 ### 🎓 Academic Leadership & Philosophy
+![Professor](https://img.shields.io/badge/Role-Professor%20of%20AIML-red?style=for-the-badge&logo=googlescholar)
 My current focus is on **AI-Augmented Curricula**, applying scaffolding and project-oriented coaching to prepare the next generation of students for a world of infinite information and automated tools.
 * **Design & Instruction:** Leading graduate and undergraduate courses in AI, Machine Learning, Robotics, and Data Science.
 * **Program Development:** Contributing to the strategic vision and curriculum evolution of Conestoga’s AI programs, such as AI HW Cluster Infrastructure and Prompt/Context Engineering.
