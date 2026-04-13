@@ -16,23 +16,24 @@ My current focus is on **AI-Augmented Curricula**, applying scaffolding and proj
 Before returning to full-time academia in 2024, I spent over a decade at **Toyota Motor Manufacturing Canada (TMMC)**, where I led the TMMC Innovation Laboratory.
 * **Deep Learning in Production:** Successfully productized low-cost Machine Vision systems for materials tracking and rolled out TMMC’s first Deep Learning platform for conveyance optimization.
 * **MLOps & Data Governance:** Developed comprehensive strategies for cross-referencing KPIs and predictive maintenance tools for robotic performance.
-* [cite_start]**Applied Research:** Former Project Assessor for **NGen Canada**, reviewing national AI/ML initiatives for commercialization in advanced manufacturing[cite: 66, 70].
+* **Applied Research:** Former Project Assessor for **NGen Canada**, reviewing national AI/ML initiatives for commercialization in advanced manufacturing.
 
 ### 🛠️ Technical Stack & Expertise
-* [cite_start]**AI/ML:** LLMs, GANs, Synthetic Data Generation (SDG), and Computer Vision[cite: 45, 55].
-* [cite_start]**Engineering:** MLOps, Statistical Process Control, and Cloud Technology[cite: 75, 92, 113].
-* [cite_start]**Legacy Systems:** 30+ years in Intelligent Tutoring Systems, Automated Reasoning, and Enterprise Java Development[cite: 10, 11, 72].
+* **AI/ML:** LLMs, Agentified ML, Synthetic Data Generation (SDG), and Computer Vision.
+* **Advanced Robotics:** Reinforcement Learning on Unitree G1 Humanoid Robots and Digital Twins.
+* **Engineering:** MLOps, Statistical Process Control, and Cloud Technology.
+* **Legacy Systems:** 30+ years in Intelligent Tutoring Systems, Automated Reasoning, and Enterprise Java Development.
 
 ### 📜 Education & Credentials
-* **PhD in Artificial Intelligence & Tutoring Systems** | [cite_start]Monterrey Institute of Technology [cite: 147]
-* **Master of Business, Entrepreneurship & Technology (MBET)** | [cite_start]University of Waterloo [cite: 146]
-* **MSc in Software Engineering** & **BS in Computer Science** | [cite_start]University of Kansas [cite: 148, 149]
+* **PhD in Artificial Intelligence & Tutoring Systems** | Monterrey Institute of Technology (ITESM)
+* **Master of Business, Entrepreneurship & Technology (MBET)** | University of Waterloo
+* **MSc in Software Engineering** & **BS in Computer Science** | University of Kansas
 
 ---
 
 ### 📬 Connect with Me
-* [cite_start]📍 Based in **Waterloo, Ontario, Canada** [cite: 42]
-* [cite_start]🔗 [LinkedIn Profile](https://www.linkedin.com/in/espinosa) [cite: 18]
-* [cite_start]📧 [enrique.d.espinosa@gmail.com](mailto:enrique.d.espinosa@gmail.com) [cite: 17]
+* 📍 Based in **Waterloo, Ontario, Canada**
+* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/espinosa)
+* 📧 [enrique.d.espinosa@gmail.com](mailto:eespinosa@conestogac.on.ca)
 
 ***
