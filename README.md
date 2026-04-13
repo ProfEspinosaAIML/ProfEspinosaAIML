@@ -15,6 +15,8 @@ My current focus is on **AI-Augmented Curricula**, applying scaffolding and proj
 * **Mentorship:** Proudly mentored and graduated over 50 MSc and PhD students throughout my career.
 
 ### 🏭 Industrial Innovation & MLOps
+![Toyota Alumni](https://img.shields.io/badge/Experience-Toyota%20Innovation%20Lead-eb0a1e?style=for-the-badge&logo=toyota)
+
 Before returning to full-time academia in 2024, I spent over a decade at **Toyota Motor Manufacturing Canada (TMMC)**, where I led the TMMC Innovation Laboratory.
 * **Deep Learning in Production:** Successfully productized low-cost Machine Vision systems for materials tracking and rolled out TMMC’s first Deep Learning platform for conveyance optimization.
 * **MLOps & Data Governance:** Developed comprehensive strategies for cross-referencing KPIs and predictive maintenance tools for robotic performance.
