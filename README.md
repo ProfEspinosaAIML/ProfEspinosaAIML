@@ -8,6 +8,7 @@ I am a cross-disciplinary researcher and educator with over 35 years of experien
 
 ### 🎓 Academic Leadership & Philosophy
 ![Professor](https://img.shields.io/badge/Role-Professor%20of%20AIML-red?style=for-the-badge&logo=googlescholar)
+
 My current focus is on **AI-Augmented Curricula**, applying scaffolding and project-oriented coaching to prepare the next generation of students for a world of infinite information and automated tools.
 * **Design & Instruction:** Leading graduate and undergraduate courses in AI, Machine Learning, Robotics, and Data Science.
 * **Program Development:** Contributing to the strategic vision and curriculum evolution of Conestoga’s AI programs, such as AI HW Cluster Infrastructure and Prompt/Context Engineering.
@@ -26,6 +27,8 @@ Before returning to full-time academia in 2024, I spent over a decade at **Toyot
 * **Legacy Systems:** 30+ years in Intelligent Tutoring Systems, Automated Reasoning, and Enterprise Java Development.
 
 ### 📜 Education & Credentials
+![PhD](https://img.shields.io/badge/Degree-PhD%20in%20AI-blue?style=for-the-badge&logo=academia)
+
 * **PhD in Artificial Intelligence & Tutoring Systems** | Monterrey Institute of Technology (ITESM)
 * **Master of Business, Entrepreneurship & Technology (MBET)** | University of Waterloo
 * **MSc in Software Engineering** & **BS in Computer Science** | University of Kansas
