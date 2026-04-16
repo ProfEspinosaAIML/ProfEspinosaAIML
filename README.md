@@ -1,6 +1,6 @@
 |  |  |
 | --- | --- |
-| 👋 **Hi, I'm Dr. David Espinosa**<br>**Professor of Applied AI & Machine Learning \| MLOps Strategist \| Academic Innovator**<br>I am a cross-disciplinary researcher and educator with over 35 years of experience bridging the gap between advanced computing and real-world industrial applications. Currently, I serve as a Full-Time Professor of Machine Learning at the Conestoga College School of Applied Computer Science & Information Technology. | **This is an active learning resource central.** |
+| 👋 ## **Hi, I'm Dr. David Espinosa**<br>**Professor of Applied AI & Machine Learning \| MLOps Strategist \| Academic Innovator**<br>I am a cross-disciplinary researcher and educator with over 35 years of experience bridging the gap between advanced computing and real-world industrial applications. Currently, I serve as a Full-Time Professor of Machine Learning at the Conestoga College School of Applied Computer Science & Information Technology. | **This is an active learning resource central.** |
 
 # 👋 Hi, I'm Dr. David Espinosa
 
